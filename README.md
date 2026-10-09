@@ -18,7 +18,7 @@ Each message is labeled as either:
 - 'spam' -> unwanted message
 
 ## Method:
-## 1. Data Preparation:
+### 1. Data Preparation:
 The SMS messages and their labels are separated into input ('x') and target ('y').
 
 ### 2. Train-Test Split:
